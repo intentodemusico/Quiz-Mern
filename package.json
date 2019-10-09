@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MPL2.0",
+  "license": "AFL-3.0",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/node": "^7.2.2",
