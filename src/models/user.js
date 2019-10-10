@@ -1,9 +1,12 @@
 import mongoose from 'mongoose';
 
 const userSchema = new mongoose.Schema({
-  username: {
-    
+  id: {
+
   },
+  username: {
+
+}
 });
 
 userSchema.statics.findByLogin = async function(login) {
